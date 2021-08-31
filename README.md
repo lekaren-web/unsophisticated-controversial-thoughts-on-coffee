@@ -1,1 +1,3 @@
-# unsophisticated-controversial-thoughts-on-coffee
+# Unsophisticated, Controversial Thoughts on Coffee
+
+- [Coffee Snobs](coffee-snobs.md)
